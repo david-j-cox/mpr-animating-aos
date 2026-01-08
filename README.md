@@ -56,5 +56,4 @@ See `requirements.txt` for a complete list of dependencies. Key packages include
 - `scipy` - Statistical functions and optimization
 - `matplotlib` - Plotting
 - `seaborn` - Statistical visualization
-- `scikit-learn` - Machine learning utilities (for concurrent schedule analyses)
 - `tqdm` - Progress bars
